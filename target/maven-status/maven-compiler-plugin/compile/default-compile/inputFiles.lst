@@ -1,0 +1,17 @@
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\AluraBooksApplication.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\controller\BookController.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\dto\AuthorDTO.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\dto\BookDTO.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\model\Autor.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\model\DatosAutor.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\model\DatosLibro.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\model\Libro.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\model\ListaDatosLibro.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\principal\Principal.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\repository\AuthorRepository.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\repository\BookRepository.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\service\AuthorService.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\service\BookService.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\service\ConsumoAPI.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\service\ConvierteDatos.java
+C:\Users\h\Desktop\01 2025\OneOracle\LiteraturAlura\src\main\java\com\example\LiteraturAlura\service\IConvierteDatos.java

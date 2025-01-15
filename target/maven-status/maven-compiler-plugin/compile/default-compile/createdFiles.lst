@@ -1,0 +1,17 @@
+com\example\LiteraturAlura\dto\AuthorDTO.class
+com\example\LiteraturAlura\AluraBooksApplication.class
+com\example\LiteraturAlura\model\DatosLibro.class
+com\example\LiteraturAlura\model\DatosAutor.class
+com\example\LiteraturAlura\service\ConsumoAPI.class
+com\example\LiteraturAlura\model\ListaDatosLibro.class
+com\example\LiteraturAlura\repository\AuthorRepository.class
+com\example\LiteraturAlura\service\AuthorService.class
+com\example\LiteraturAlura\service\IConvierteDatos.class
+com\example\LiteraturAlura\controller\BookController.class
+com\example\LiteraturAlura\dto\BookDTO.class
+com\example\LiteraturAlura\service\BookService.class
+com\example\LiteraturAlura\repository\BookRepository.class
+com\example\LiteraturAlura\principal\Principal.class
+com\example\LiteraturAlura\model\Libro.class
+com\example\LiteraturAlura\service\ConvierteDatos.class
+com\example\LiteraturAlura\model\Autor.class
