@@ -23,7 +23,7 @@ Características:
 Tecnologías utilizadas:
 
 
-    Java 11
+    Java 17
 
     Spring Boot
 
